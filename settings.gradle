@@ -1,0 +1,2 @@
+rootProject.name = "DateSpinnerTest"
+include ':app'
